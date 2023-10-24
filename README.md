@@ -13,7 +13,7 @@ buxingb
 mianm_arb
 weisheg
 tiantxix
-buyaobuyao
+buyaobuyao_lok
 wannianh
 weijishs
 aishibua
